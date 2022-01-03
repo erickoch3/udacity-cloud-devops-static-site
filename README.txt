@@ -14,7 +14,7 @@ index.html - The Index document for the website.
 Eric Koch's Udacity Cloud DevOps Project 1 - Deploy Static Website on AWS
 
 S3 Bucket Link:             https://udacity-827032113985-project1site.s3.amazonaws.com/index.html
-S3 Static Website Link:     https://udacity-827032113985-project1site.s3-website-us-east-1.amazonaws.com/
+S3 Static Website Link:     http://udacity-827032113985-project1site.s3-website-us-east-1.amazonaws.com/
 CloudFront Distro Link:     https://d3gachdqsiqixw.cloudfront.net
 
 You can find the relevant project photos for submission in /project-photos.
